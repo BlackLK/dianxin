@@ -1,0 +1,12 @@
+node_modules/
+.trae/
+chinaTelecom_cache.json
+.env
+*.log
+*.tmp
+*.bak
+__pycache__/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
